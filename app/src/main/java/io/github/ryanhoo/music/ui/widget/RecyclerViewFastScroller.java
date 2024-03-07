@@ -14,13 +14,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import io.github.ryanhoo.music.R;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/2/16
- * Time: 9:17 PM
- * Desc: FastScroller
- */
+
 public class RecyclerViewFastScroller extends LinearLayout {
 
     // private static final String TAG = "FastScroller";

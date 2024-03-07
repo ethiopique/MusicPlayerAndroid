@@ -15,14 +15,7 @@ import android.view.animation.LinearInterpolator;
 import android.widget.ImageView;
 import io.github.ryanhoo.music.BuildConfig;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/6/16
- * Time: 11:39 PM
- * Desc: AlbumImageView
- * Referenced {@link android.support.v4.widget.SwipeRefreshLayout}'s implementation.
- */
+
 public class AlbumImageView extends ImageView {
 
     // private static final String TAG = "AlbumImageView";

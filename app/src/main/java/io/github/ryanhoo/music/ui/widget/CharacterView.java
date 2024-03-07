@@ -11,13 +11,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import io.github.ryanhoo.music.R;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 7/16/16
- * Time: 6:51 AM
- * Desc: CharacterView
- */
+
 public class CharacterView extends View {
 
     private static final String DEFAULT_CHARACTER = "C";
