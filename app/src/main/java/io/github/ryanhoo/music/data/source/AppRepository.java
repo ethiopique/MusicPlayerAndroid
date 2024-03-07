@@ -11,13 +11,7 @@ import rx.functions.Action1;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/10/16
- * Time: 4:17 PM
- * Desc: AppRepository
- */
+
 public class AppRepository implements AppContract {
 
     private static volatile AppRepository sInstance;

@@ -7,13 +7,7 @@ import com.litesuits.orm.db.annotation.Table;
 import com.litesuits.orm.db.annotation.Unique;
 import com.litesuits.orm.db.enums.AssignType;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/2/16
- * Time: 4:01 PM
- * Desc: Song
- */
+
 @Table("song")
 public class Song implements Parcelable {
 

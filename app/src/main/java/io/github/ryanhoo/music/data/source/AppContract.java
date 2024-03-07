@@ -7,13 +7,7 @@ import rx.Observable;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/10/16
- * Time: 4:52 PM
- * Desc: AppContract
- */
+
 /* package */ interface AppContract {
 
     // Play List
