@@ -11,13 +11,7 @@ import io.github.ryanhoo.music.ui.base.adapter.ListAdapter;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 6:00 PM
- * Desc: AbstractCommonAdapter
- */
+
 public abstract class AbstractSummaryAdapter<T, V extends IAdapterView> extends ListAdapter<T, V> {
 
     protected static final int VIEW_TYPE_ITEM = 1; // Normal list item

@@ -8,13 +8,7 @@ import android.view.View;
 import rx.Subscription;
 import rx.subscriptions.CompositeSubscription;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 3/16/16
- * Time: 12:14 AM
- * Desc: BaseFragment
- */
+
 public abstract class BaseFragment extends Fragment {
 
     private CompositeSubscription mSubscriptions;

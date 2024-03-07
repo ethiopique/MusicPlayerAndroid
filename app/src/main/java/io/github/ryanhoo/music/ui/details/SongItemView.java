@@ -11,13 +11,7 @@ import io.github.ryanhoo.music.data.model.Song;
 import io.github.ryanhoo.music.ui.base.adapter.IAdapterView;
 import io.github.ryanhoo.music.utils.TimeUtils;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/11/16
- * Time: 6:27 AM
- * Desc: SongItemView
- */
+
 public class SongItemView extends RelativeLayout implements IAdapterView<Song> {
 
     @BindView(R.id.text_view_index)

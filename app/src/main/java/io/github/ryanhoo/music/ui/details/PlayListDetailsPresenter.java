@@ -11,13 +11,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 import rx.subscriptions.CompositeSubscription;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/14/16
- * Time: 2:35 AM
- * Desc: PlayListDetailsPresenter
- */
+
 public class PlayListDetailsPresenter implements PlayListDetailsContract.Presenter {
 
     private PlayListDetailsContract.View mView;

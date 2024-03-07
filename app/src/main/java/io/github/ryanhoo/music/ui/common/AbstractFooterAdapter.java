@@ -9,13 +9,7 @@ import io.github.ryanhoo.music.ui.base.adapter.ListAdapter;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 10:32 PM
- * Desc: AbstractFooterAdapter
- */
+
 public abstract class AbstractFooterAdapter<T, V extends IAdapterView> extends ListAdapter<T, V> {
 
     protected static final int VIEW_TYPE_ITEM = 1; // Normal list item

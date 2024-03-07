@@ -27,13 +27,7 @@ import io.github.ryanhoo.music.ui.base.adapter.OnItemClickListener;
 import io.github.ryanhoo.music.ui.common.DefaultDividerDecoration;
 import io.github.ryanhoo.music.ui.playlist.AddToPlayListDialogFragment;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/11/16
- * Time: 6:34 AM
- * Desc: PlayListDetailsActivity
- */
+
 public class PlayListDetailsActivity extends BaseActivity implements PlayListDetailsContract.View, SongAdapter.ActionCallback {
 
     private static final String TAG = "PlayListDetailsActivity";

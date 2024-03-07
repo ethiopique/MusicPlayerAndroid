@@ -10,13 +10,6 @@ import io.github.ryanhoo.music.ui.common.AbstractSummaryAdapter;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/11/16
- * Time: 6:41 AM
- * Desc: SongAdapter
- */
 public class SongAdapter extends AbstractSummaryAdapter<Song, SongItemView> {
 
     private Context mContext;

@@ -18,13 +18,7 @@ import rx.Subscription;
 import rx.subscriptions.CompositeSubscription;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 3/15/16
- * Time: 8:12 PM
- * Desc: BaseActivity
- */
+
 public abstract class BaseActivity extends AppCompatActivity {
 
     private CompositeSubscription mSubscriptions;
@@ -78,13 +72,7 @@ public abstract class BaseActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    /**
-     * An easy way to set up non-home(no back button on the toolbar) activity to enable
-     * go back action.
-     *
-     * @param toolbar The toolbar with go back button
-     * @return ActionBar
-     */
+
     protected ActionBar supportActionBar(Toolbar toolbar) {
         setSupportActionBar(toolbar);
         ActionBar actionBar = getSupportActionBar();
