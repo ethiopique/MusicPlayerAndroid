@@ -17,13 +17,7 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/10/16
- * Time: 4:54 PM
- * Desc: AppLocalDataSource
- */
+
 /* package */ class AppLocalDataSource implements AppContract {
 
     private static final String TAG = "AppLocalDataSource";
