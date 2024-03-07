@@ -10,13 +10,7 @@ import io.github.ryanhoo.music.R;
 import io.github.ryanhoo.music.data.model.Folder;
 import io.github.ryanhoo.music.ui.base.adapter.IAdapterView;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 7:22 PM
- * Desc: FolderItemView
- */
+
 public class FolderItemView extends RelativeLayout implements IAdapterView<Folder> {
 
     @BindView(R.id.text_view_name)

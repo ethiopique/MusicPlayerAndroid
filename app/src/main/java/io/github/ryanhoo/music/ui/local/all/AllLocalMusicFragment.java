@@ -26,13 +26,7 @@ import rx.functions.Action1;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/1/16
- * Time: 9:58 PM
- * Desc: LocalFilesFragment
- */
+
 public class AllLocalMusicFragment extends BaseFragment implements LocalMusicContract.View {
 
     @BindView(R.id.recycler_view)

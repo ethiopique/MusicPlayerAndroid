@@ -26,13 +26,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/13/16
- * Time: 8:36 PM
- * Desc: LocalMusicPresenter
- */
+
 public class LocalMusicPresenter implements LocalMusicContract.Presenter, LoaderManager.LoaderCallbacks<Cursor> {
 
     private static final String TAG = "LocalMusicPresenter";

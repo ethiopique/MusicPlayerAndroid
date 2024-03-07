@@ -14,13 +14,7 @@ import android.view.Window;
 import io.github.ryanhoo.music.R;
 import io.github.ryanhoo.music.utils.ViewUtils;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/4/16
- * Time: 5:40 PM
- * Desc: ActionModeCallback
- */
+
 public class ActionModeCallback implements ActionMode.Callback {
 
     private static final int ANIMATION_DURATION = 350;

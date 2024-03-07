@@ -8,13 +8,7 @@ import io.github.ryanhoo.music.ui.base.BaseView;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/13/16
- * Time: 8:32 PM
- * Desc: LocalMusicContract
- */
+
 /* package */ interface LocalMusicContract {
 
     interface View extends BaseView<Presenter> {

@@ -8,13 +8,7 @@ import io.github.ryanhoo.music.ui.base.BaseView;
 import java.io.File;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/10/16
- * Time: 11:34 PM
- * Desc: FolderContract
- */
+
 /* package */ interface FolderContract {
 
     interface View extends BaseView<Presenter> {

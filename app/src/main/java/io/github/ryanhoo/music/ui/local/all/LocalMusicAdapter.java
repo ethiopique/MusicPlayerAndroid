@@ -8,13 +8,7 @@ import io.github.ryanhoo.music.ui.widget.RecyclerViewFastScroller;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/2/16
- * Time: 8:21 PM
- * Desc: LocalMusicAdapter
- */
+
 public class LocalMusicAdapter extends AbstractSummaryAdapter<Song, LocalMusicItemView>
         implements RecyclerViewFastScroller.BubbleTextGetter {
 

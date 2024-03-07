@@ -31,13 +31,7 @@ import rx.functions.Action1;
 import java.io.File;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 7:29 PM
- * Desc: FolderFragment
- */
+
 public class FolderFragment extends BaseFragment implements FolderContract.View, FolderAdapter.AddFolderCallback {
 
     // private static final String TAG = "AddedFolderFragment";

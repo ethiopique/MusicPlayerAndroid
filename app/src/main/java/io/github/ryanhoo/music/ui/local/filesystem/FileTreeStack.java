@@ -5,13 +5,7 @@ import android.support.annotation.UiThread;
 import java.io.File;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/4/16
- * Time: 12:58 AM
- * Desc: FileTreeStack
- */
+
 @UiThread
 public class FileTreeStack {
 

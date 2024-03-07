@@ -8,13 +8,7 @@ import io.github.ryanhoo.music.ui.base.adapter.ListAdapter;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 11:29 PM
- * Desc: FileSystemAdapter
- */
+
 public class FileSystemAdapter extends ListAdapter<FileWrapper, FileItemView> {
 
     public FileSystemAdapter(Context context, List<FileWrapper> data) {

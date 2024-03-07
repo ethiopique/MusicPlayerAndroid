@@ -11,13 +11,7 @@ import io.github.ryanhoo.music.ui.common.AbstractFooterAdapter;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 7:22 PM
- * Desc: FolderAdapter
- */
+
 public class FolderAdapter extends AbstractFooterAdapter<Folder, FolderItemView> {
 
     private Context mContext;

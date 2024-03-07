@@ -16,13 +16,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 11:03 PM
- * Desc: FilItemView
- */
+
 public class FileItemView extends RelativeLayout implements IAdapterView<FileWrapper> {
 
     private static final String DATE_FORMAT = "yyyy-MM-dd";

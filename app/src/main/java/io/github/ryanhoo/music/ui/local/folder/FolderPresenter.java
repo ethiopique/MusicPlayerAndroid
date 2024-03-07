@@ -21,13 +21,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/10/16
- * Time: 11:38 PM
- * Desc: FolderPresenter
- */
+
 public class FolderPresenter implements FolderContract.Presenter {
 
     private FolderContract.View mView;

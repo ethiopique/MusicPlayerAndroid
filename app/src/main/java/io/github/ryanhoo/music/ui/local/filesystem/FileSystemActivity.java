@@ -28,13 +28,7 @@ import rx.schedulers.Schedulers;
 import java.io.File;
 import java.util.*;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 11:31 PM
- * Desc: FileSystemActivity
- */
+
 public class FileSystemActivity extends BaseActivity {
 
     private static final String TAG = "SystemFileActivity";
