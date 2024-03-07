@@ -16,9 +16,7 @@ public class PreferenceManager {
      */
     private static final String KEY_FOLDERS_FIRST_QUERY = "firstQueryFolders";
 
-    /**
-     * Play mode from the last time.
-     */
+   
     private static final String KEY_PLAY_MODE = "playMode";
 
     private static SharedPreferences preferences(Context context) {
