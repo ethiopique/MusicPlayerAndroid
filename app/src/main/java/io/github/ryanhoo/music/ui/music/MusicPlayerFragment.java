@@ -35,13 +35,6 @@ import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/1/16
- * Time: 9:58 PM
- * Desc: MusicPlayerFragment
- */
 
 public class MusicPlayerFragment extends BaseFragment implements MusicPlayerContract.View, IPlayback.Callback {
 

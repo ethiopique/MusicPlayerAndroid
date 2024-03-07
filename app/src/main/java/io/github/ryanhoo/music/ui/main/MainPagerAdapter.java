@@ -5,13 +5,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import io.github.ryanhoo.music.ui.base.BaseFragment;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 7/8/16
- * Time: 9:24 PM
- * Desc: MainTabAdapter
- */
+
 public class MainPagerAdapter extends FragmentPagerAdapter {
 
     private String[] mTitles;
