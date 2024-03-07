@@ -4,13 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import io.github.ryanhoo.music.player.PlayMode;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/10/16
- * Time: 11:05 PM
- * Desc: PreferenceManager
- */
+
 public class PreferenceManager {
 
     private static final String PREFS_NAME = "config.xml";
