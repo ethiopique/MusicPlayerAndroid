@@ -10,13 +10,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 7:19 PM
- * Desc: Folder
- */
 @Table("folder")
 public class Folder implements Parcelable {
 
