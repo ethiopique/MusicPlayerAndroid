@@ -4,13 +4,7 @@ import android.support.annotation.Nullable;
 import io.github.ryanhoo.music.data.model.PlayList;
 import io.github.ryanhoo.music.data.model.Song;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/5/16
- * Time: 6:02 PM
- * Desc: IPlayer
- */
+
 public interface IPlayback {
 
     void setPlayList(PlayList list);

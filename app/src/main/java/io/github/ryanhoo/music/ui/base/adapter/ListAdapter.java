@@ -7,13 +7,7 @@ import android.view.ViewGroup;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 7/11/16
- * Time: 11:45 AM
- * Desc: ListAdapter
- */
+
 public abstract class ListAdapter<T, V extends IAdapterView> extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private Context mContext;

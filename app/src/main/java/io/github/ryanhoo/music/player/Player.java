@@ -10,13 +10,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/5/16
- * Time: 5:57 PM
- * Desc: Player
- */
+
 public class Player implements IPlayback, MediaPlayer.OnCompletionListener {
 
     private static final String TAG = "Player";

@@ -16,13 +16,7 @@ import io.github.ryanhoo.music.data.model.Song;
 import io.github.ryanhoo.music.ui.main.MainActivity;
 import io.github.ryanhoo.music.utils.AlbumUtils;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/12/16
- * Time: 4:27 PM
- * Desc: PlayService
- */
+
 public class PlaybackService extends Service implements IPlayback, IPlayback.Callback {
 
     private static final String ACTION_PLAY_TOGGLE = "io.github.ryanhoo.music.ACTION.PLAY_TOGGLE";
