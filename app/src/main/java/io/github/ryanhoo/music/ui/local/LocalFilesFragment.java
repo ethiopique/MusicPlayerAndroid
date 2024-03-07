@@ -19,13 +19,7 @@ import io.github.ryanhoo.music.ui.local.folder.FolderFragment;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/1/16
- * Time: 9:58 PM
- * Desc: LocalFilesFragment
- */
+
 public class LocalFilesFragment extends BaseFragment {
 
     // private static final String TAG = "LocalFilesFragment";
