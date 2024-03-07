@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.widget;
+package io.github.ethiopique.music.ui.widget;
 
 import android.content.Context;
 import android.graphics.*;

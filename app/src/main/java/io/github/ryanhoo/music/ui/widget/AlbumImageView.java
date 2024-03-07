@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.widget;
+package io.github.ethiopique.music.ui.widget;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
@@ -13,7 +13,7 @@ import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.animation.LinearInterpolator;
 import android.widget.ImageView;
-import io.github.ryanhoo.music.BuildConfig;
+import io.github.ethiopique.music.BuildConfig;
 
 
 public class AlbumImageView extends ImageView {

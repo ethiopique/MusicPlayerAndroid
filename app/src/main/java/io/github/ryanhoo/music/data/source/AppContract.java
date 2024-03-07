@@ -1,8 +1,8 @@
-package io.github.ryanhoo.music.data.source;
+package io.github.ethiopique.music.data.source;
 
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
 import rx.Observable;
 
 import java.util.List;

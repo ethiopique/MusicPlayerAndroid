@@ -1,8 +1,7 @@
-package io.github.ryanhoo.music;
+package io.github.ethiopique.music;
 
 import android.app.Application;
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
-
 
 public class MusicPlayerApplication extends Application {
 

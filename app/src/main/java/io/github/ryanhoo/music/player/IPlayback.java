@@ -1,8 +1,8 @@
-package io.github.ryanhoo.music.player;
+package io.github.ethiopique.music.player;
 
 import android.support.annotation.Nullable;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
 
 
 public interface IPlayback {

@@ -1,9 +1,9 @@
-package io.github.ryanhoo.music.ui.local.folder;
+package io.github.ethiopique.music.ui.local.folder;
 
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.ui.base.BasePresenter;
-import io.github.ryanhoo.music.ui.base.BaseView;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.ui.base.BasePresenter;
+import io.github.ethiopique.music.ui.base.BaseView;
 
 import java.io.File;
 import java.util.List;

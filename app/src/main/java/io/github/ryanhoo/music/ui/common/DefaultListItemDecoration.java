@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.common;
+package io.github.ethiopique.music.ui.common;
 
 import android.graphics.Canvas;
 import android.graphics.Paint;

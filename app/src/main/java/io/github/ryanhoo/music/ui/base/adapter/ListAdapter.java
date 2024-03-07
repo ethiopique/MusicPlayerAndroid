@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.base.adapter;
+package io.github.ethiopique.music.ui.base.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

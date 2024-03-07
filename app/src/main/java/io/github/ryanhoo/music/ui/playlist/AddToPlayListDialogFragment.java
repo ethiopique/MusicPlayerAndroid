@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.playlist;
+package io.github.ethiopique.music.ui.playlist;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -10,13 +10,13 @@ import android.support.v7.app.AlertDialog;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.source.AppRepository;
-import io.github.ryanhoo.music.ui.base.BaseDialogFragment;
-import io.github.ryanhoo.music.ui.base.adapter.ListAdapter;
-import io.github.ryanhoo.music.ui.base.adapter.OnItemClickListener;
-import io.github.ryanhoo.music.ui.common.DefaultDividerDecoration;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.source.AppRepository;
+import io.github.ethiopique.music.ui.base.BaseDialogFragment;
+import io.github.ethiopique.music.ui.base.adapter.ListAdapter;
+import io.github.ethiopique.music.ui.base.adapter.OnItemClickListener;
+import io.github.ethiopique.music.ui.common.DefaultDividerDecoration;
 import rx.subscriptions.CompositeSubscription;
 
 import java.util.List;

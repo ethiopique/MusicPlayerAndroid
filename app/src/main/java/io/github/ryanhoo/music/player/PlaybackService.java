@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.player;
+package io.github.ethiopique.music.player;
 
 import android.app.Notification;
 import android.app.PendingIntent;
@@ -10,19 +10,19 @@ import android.os.IBinder;
 import android.support.annotation.Nullable;
 import android.support.v7.app.NotificationCompat;
 import android.widget.RemoteViews;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.ui.main.MainActivity;
-import io.github.ryanhoo.music.utils.AlbumUtils;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.ui.main.MainActivity;
+import io.github.ethiopique.music.utils.AlbumUtils;
 
 
 public class PlaybackService extends Service implements IPlayback, IPlayback.Callback {
 
-    private static final String ACTION_PLAY_TOGGLE = "io.github.ryanhoo.music.ACTION.PLAY_TOGGLE";
-    private static final String ACTION_PLAY_LAST = "io.github.ryanhoo.music.ACTION.PLAY_LAST";
-    private static final String ACTION_PLAY_NEXT = "io.github.ryanhoo.music.ACTION.PLAY_NEXT";
-    private static final String ACTION_STOP_SERVICE = "io.github.ryanhoo.music.ACTION.STOP_SERVICE";
+    private static final String ACTION_PLAY_TOGGLE = "io.github.ethiopique.music.ACTION.PLAY_TOGGLE";
+    private static final String ACTION_PLAY_LAST = "io.github.ethiopique.music.ACTION.PLAY_LAST";
+    private static final String ACTION_PLAY_NEXT = "io.github.ethiopique.music.ACTION.PLAY_NEXT";
+    private static final String ACTION_STOP_SERVICE = "io.github.ethiopique.music.ACTION.STOP_SERVICE";
 
     private static final int NOTIFICATION_ID = 1;
 

@@ -1,8 +1,8 @@
-package io.github.ryanhoo.music.data.source;
+package io.github.ethiopique.music.data.source;
 
 import android.content.Context;
 import android.content.SharedPreferences;
-import io.github.ryanhoo.music.player.PlayMode;
+import io.github.ethiopique.music.player.PlayMode;
 
 
 public class PreferenceManager {

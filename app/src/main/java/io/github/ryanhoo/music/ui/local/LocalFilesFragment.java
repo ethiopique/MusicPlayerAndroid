@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.local;
+package io.github.ethiopique.music.ui.local;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -11,10 +11,10 @@ import android.widget.RadioButton;
 import butterknife.BindViews;
 import butterknife.ButterKnife;
 import butterknife.OnCheckedChanged;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.ui.base.BaseFragment;
-import io.github.ryanhoo.music.ui.local.all.AllLocalMusicFragment;
-import io.github.ryanhoo.music.ui.local.folder.FolderFragment;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.ui.base.BaseFragment;
+import io.github.ethiopique.music.ui.local.all.AllLocalMusicFragment;
+import io.github.ethiopique.music.ui.local.folder.FolderFragment;
 
 import java.util.ArrayList;
 import java.util.List;

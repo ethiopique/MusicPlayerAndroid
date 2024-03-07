@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.player;
+package io.github.ethiopique.music.player;
 
 
 public enum PlayMode {

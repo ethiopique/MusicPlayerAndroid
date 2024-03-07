@@ -1,8 +1,8 @@
-package io.github.ryanhoo.music.data.source.db;
+package io.github.ethiopique.music.data.source.db;
 
 import com.litesuits.orm.LiteOrm;
-import io.github.ryanhoo.music.BuildConfig;
-import io.github.ryanhoo.music.Injection;
+import io.github.ethiopique.music.BuildConfig;
+import io.github.ethiopique.music.Injection;
 
 /**
  * Created with Android Studio.

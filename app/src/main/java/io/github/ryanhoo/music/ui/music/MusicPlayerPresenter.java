@@ -1,17 +1,17 @@
-package io.github.ryanhoo.music.ui.music;
+package io.github.ethiopique.music.ui.music;
 
 import android.content.ComponentName;
 import android.content.Context;
 import android.content.Intent;
 import android.content.ServiceConnection;
 import android.os.IBinder;
-import io.github.ryanhoo.music.RxBus;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.data.source.AppRepository;
-import io.github.ryanhoo.music.data.source.PreferenceManager;
-import io.github.ryanhoo.music.event.FavoriteChangeEvent;
-import io.github.ryanhoo.music.player.PlayMode;
-import io.github.ryanhoo.music.player.PlaybackService;
+import io.github.ethiopique.music.RxBus;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.data.source.AppRepository;
+import io.github.ethiopique.music.data.source.PreferenceManager;
+import io.github.ethiopique.music.event.FavoriteChangeEvent;
+import io.github.ethiopique.music.player.PlayMode;
+import io.github.ethiopique.music.player.PlaybackService;
 import rx.Subscriber;
 import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;

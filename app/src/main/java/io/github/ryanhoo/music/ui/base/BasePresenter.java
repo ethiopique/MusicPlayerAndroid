@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.base;
+package io.github.ethiopique.music.ui.base;
 
 
 public interface BasePresenter {

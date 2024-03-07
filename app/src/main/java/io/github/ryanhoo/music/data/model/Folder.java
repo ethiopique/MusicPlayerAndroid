@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.data.model;
+package io.github.ethiopique.music.data.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

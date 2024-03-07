@@ -1,12 +1,12 @@
-package io.github.ryanhoo.music.ui.music;
+package io.github.ethiopique.music.ui.music;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.player.PlayMode;
-import io.github.ryanhoo.music.player.PlaybackService;
-import io.github.ryanhoo.music.ui.base.BasePresenter;
-import io.github.ryanhoo.music.ui.base.BaseView;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.player.PlayMode;
+import io.github.ethiopique.music.player.PlaybackService;
+import io.github.ethiopique.music.ui.base.BasePresenter;
+import io.github.ethiopique.music.ui.base.BaseView;
 
 
 /* package */ interface MusicPlayerContract {

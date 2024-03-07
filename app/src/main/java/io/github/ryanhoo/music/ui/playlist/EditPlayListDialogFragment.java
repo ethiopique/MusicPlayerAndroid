@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.playlist;
+package io.github.ethiopique.music.ui.playlist;
 
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -10,9 +10,9 @@ import android.view.KeyEvent;
 import android.view.inputmethod.EditorInfo;
 import android.widget.EditText;
 import android.widget.TextView;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.ui.base.BaseDialogFragment;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.ui.base.BaseDialogFragment;
 
 
 public class EditPlayListDialogFragment extends BaseDialogFragment implements Dialog.OnShowListener {

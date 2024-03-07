@@ -1,7 +1,7 @@
-package io.github.ryanhoo.music.ui.playlist;
+package io.github.ethiopique.music.ui.playlist;
 
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.source.AppRepository;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.source.AppRepository;
 import rx.Subscriber;
 import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;

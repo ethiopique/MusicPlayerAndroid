@@ -1,9 +1,9 @@
-package io.github.ryanhoo.music.utils;
+package io.github.ethiopique.music.utils;
 
 import android.graphics.*;
 import android.media.MediaMetadataRetriever;
 import android.util.Log;
-import io.github.ryanhoo.music.data.model.Song;
+import io.github.ethiopique.music.data.model.Song;
 
 import java.io.File;
 

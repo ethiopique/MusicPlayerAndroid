@@ -1,10 +1,10 @@
-package io.github.ryanhoo.music.ui.local.all;
+package io.github.ethiopique.music.ui.local.all;
 
 import android.content.Context;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.ui.common.AbstractSummaryAdapter;
-import io.github.ryanhoo.music.ui.widget.RecyclerViewFastScroller;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.ui.common.AbstractSummaryAdapter;
+import io.github.ethiopique.music.ui.widget.RecyclerViewFastScroller;
 
 import java.util.List;
 

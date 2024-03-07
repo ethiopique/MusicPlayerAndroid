@@ -1,9 +1,9 @@
-package io.github.ryanhoo.music.ui.main;
+package io.github.ethiopique.music.ui.main;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import io.github.ryanhoo.music.ui.base.BaseFragment;
+import io.github.ethiopique.music.ui.base.BaseFragment;
 
 
 public class MainPagerAdapter extends FragmentPagerAdapter {

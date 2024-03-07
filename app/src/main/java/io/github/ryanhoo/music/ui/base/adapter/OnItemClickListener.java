@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.base.adapter;
+package io.github.ethiopique.music.ui.base.adapter;
 
 
 public interface OnItemClickListener {

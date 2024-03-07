@@ -1,10 +1,10 @@
-package io.github.ryanhoo.music.data.source;
+package io.github.ethiopique.music.data.source;
 
-import io.github.ryanhoo.music.Injection;
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.data.source.db.LiteOrmHelper;
+import io.github.ethiopique.music.Injection;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.data.source.db.LiteOrmHelper;
 import rx.Observable;
 import rx.functions.Action1;
 

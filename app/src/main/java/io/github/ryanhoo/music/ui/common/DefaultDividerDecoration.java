@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.common;
+package io.github.ethiopique.music.ui.common;
 
 import android.graphics.Rect;
 import android.support.v7.widget.RecyclerView;
