@@ -6,13 +6,7 @@ import io.github.ryanhoo.music.ui.base.BaseView;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/11/16
- * Time: 1:25 AM
- * Desc: PlayListContract
- */
+
 /* package */ interface PlayListContract {
 
     interface View extends BaseView<Presenter> {

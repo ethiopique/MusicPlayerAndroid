@@ -12,13 +12,6 @@ import io.github.ryanhoo.music.data.model.PlayList;
 import io.github.ryanhoo.music.ui.base.adapter.IAdapterView;
 import io.github.ryanhoo.music.utils.ViewUtils;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/9/16
- * Time: 10:03 PM
- * Desc: PlayListItemView
- */
 public class PlayListItemView extends RelativeLayout implements IAdapterView<PlayList> {
 
     @BindView(R.id.image_view_album)

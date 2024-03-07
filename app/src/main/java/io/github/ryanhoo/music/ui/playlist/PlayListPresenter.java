@@ -10,13 +10,7 @@ import rx.subscriptions.CompositeSubscription;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/11/16
- * Time: 1:28 AM
- * Desc: PlayListPresenter
- */
+
 public class PlayListPresenter implements PlayListContract.Presenter {
 
     private PlayListContract.View mView;

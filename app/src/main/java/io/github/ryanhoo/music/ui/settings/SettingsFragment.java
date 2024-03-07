@@ -8,13 +8,7 @@ import android.view.ViewGroup;
 import io.github.ryanhoo.music.R;
 import io.github.ryanhoo.music.ui.base.BaseFragment;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/1/16
- * Time: 9:59 PM
- * Desc: SettingsFragment
- */
+
 public class SettingsFragment extends BaseFragment {
 
     @Nullable

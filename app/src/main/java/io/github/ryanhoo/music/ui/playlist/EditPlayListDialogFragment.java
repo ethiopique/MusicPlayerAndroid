@@ -14,15 +14,7 @@ import io.github.ryanhoo.music.R;
 import io.github.ryanhoo.music.data.model.PlayList;
 import io.github.ryanhoo.music.ui.base.BaseDialogFragment;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/9/16
- * Time: 10:51 PM
- * Desc: EditPlayListDialogFragment manages play lists'
- * - Create
- * - Edit
- */
+
 public class EditPlayListDialogFragment extends BaseDialogFragment implements Dialog.OnShowListener {
 
     private static final String ARGUMENT_PLAY_LIST = "playList";

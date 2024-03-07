@@ -27,13 +27,7 @@ import rx.functions.Action1;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/1/16
- * Time: 9:58 PM
- * Desc: PlayListFragment
- */
+
 public class PlayListFragment extends BaseFragment implements PlayListContract.View,
         EditPlayListDialogFragment.Callback, PlayListAdapter.AddPlayListCallback {
 

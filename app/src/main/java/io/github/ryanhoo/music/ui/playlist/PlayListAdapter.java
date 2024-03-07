@@ -11,13 +11,7 @@ import io.github.ryanhoo.music.ui.common.AbstractFooterAdapter;
 
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/9/16
- * Time: 10:16 PM
- * Desc: PlayListAdapter
- */
+
 public class PlayListAdapter extends AbstractFooterAdapter<PlayList, PlayListItemView> {
 
     private Context mContext;
