@@ -13,13 +13,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/3/16
- * Time: 11:11 PM
- * Desc: FileUtils
- */
+
 public class FileUtils {
 
     private static final String UNKNOWN = "unknown";

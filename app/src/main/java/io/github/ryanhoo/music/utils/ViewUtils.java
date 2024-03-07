@@ -8,13 +8,7 @@ import android.view.View;
 import io.github.ryanhoo.music.R;
 import io.github.ryanhoo.music.ui.widget.CharacterDrawable;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/4/16
- * Time: 4:08 PM
- * Desc: ViewUtils
- */
+
 public class ViewUtils {
 
     public static void setLightStatusBar(@NonNull View view) {

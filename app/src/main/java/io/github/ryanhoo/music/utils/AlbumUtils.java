@@ -7,14 +7,7 @@ import io.github.ryanhoo.music.data.model.Song;
 
 import java.io.File;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/14/16
- * Time: 8:42 PM
- * Desc: BitmapUtils
- * TODO To be optimized
- */
+
 public class AlbumUtils {
 
     private static final String TAG = "AlbumUtils";

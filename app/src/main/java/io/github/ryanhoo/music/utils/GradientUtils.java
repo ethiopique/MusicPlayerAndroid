@@ -4,13 +4,7 @@ import android.graphics.drawable.GradientDrawable;
 import android.support.annotation.ColorInt;
 import android.support.annotation.FloatRange;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/1/16
- * Time: 10:13 PM
- * Desc: GradientUtils
- */
+
 public class GradientUtils {
 
     public static GradientDrawable create(@ColorInt int startColor, @ColorInt int endColor, int radius,

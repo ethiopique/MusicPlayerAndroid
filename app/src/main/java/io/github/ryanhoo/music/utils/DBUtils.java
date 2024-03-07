@@ -10,13 +10,7 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
- * Date: 9/9/16
- * Time: 10:27 PM
- * Desc: DBUtils
- */
+
 public class DBUtils {
 
     public static PlayList generateFavoritePlayList(Context context) {
