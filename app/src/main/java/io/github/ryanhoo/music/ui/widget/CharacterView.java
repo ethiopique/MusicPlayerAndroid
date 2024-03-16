@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.widget;
+package io.github.ethiopique.music.ui.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.support.annotation.ColorInt;
 import android.support.annotation.Dimension;
 import android.util.AttributeSet;
 import android.view.View;
-import io.github.ryanhoo.music.R;
+import io.github.ethiopique.music.R;
 
 /**
  * Created with Android Studio.

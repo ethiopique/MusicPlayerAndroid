@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.details;
+package io.github.ethiopique.music.ui.details;
 
 import android.content.Context;
 import android.view.View;
@@ -6,10 +6,10 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.ui.base.adapter.IAdapterView;
-import io.github.ryanhoo.music.utils.TimeUtils;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.ui.base.adapter.IAdapterView;
+import io.github.ethiopique.music.utils.TimeUtils;
 
 /**
  * Created with Android Studio.

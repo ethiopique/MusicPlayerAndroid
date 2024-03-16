@@ -1,10 +1,10 @@
-package io.github.ryanhoo.music.utils;
+package io.github.ethiopique.music.utils;
 
 import android.content.Context;
 import android.os.Environment;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
 
 import java.io.File;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.widget;
+package io.github.ethiopique.music.ui.widget;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -12,7 +12,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import io.github.ryanhoo.music.R;
+import io.github.ethiopique.music.R;
 
 /**
  * Created with Android Studio.

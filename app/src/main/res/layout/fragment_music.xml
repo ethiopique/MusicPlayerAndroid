@@ -16,7 +16,7 @@
         android:layout_weight="1"
         >
 
-        <io.github.ryanhoo.music.ui.widget.ShadowImageView
+        <io.github.ethiopique.music.ui.widget.ShadowImageView
             android:id="@+id/image_view_album"
             android:layout_width="@dimen/mp.music.album.size"
             android:layout_height="@dimen/mp.music.album.size"

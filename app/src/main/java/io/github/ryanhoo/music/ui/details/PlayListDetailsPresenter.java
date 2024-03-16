@@ -1,10 +1,10 @@
-package io.github.ryanhoo.music.ui.details;
+package io.github.ethiopique.music.ui.details;
 
-import io.github.ryanhoo.music.RxBus;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.data.source.AppRepository;
-import io.github.ryanhoo.music.event.PlayListUpdatedEvent;
+import io.github.ethiopique.music.RxBus;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.data.source.AppRepository;
+import io.github.ethiopique.music.event.PlayListUpdatedEvent;
 import rx.Subscriber;
 import rx.Subscription;
 import rx.android.schedulers.AndroidSchedulers;

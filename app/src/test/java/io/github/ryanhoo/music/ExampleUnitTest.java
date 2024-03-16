@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music;
+package io.github.ethiopique.music;
 
 import org.junit.Test;
 

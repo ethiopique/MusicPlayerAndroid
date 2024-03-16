@@ -1,13 +1,13 @@
-package io.github.ryanhoo.music.ui.playlist;
+package io.github.ethiopique.music.ui.playlist;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.ui.common.AbstractFooterAdapter;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.ui.common.AbstractFooterAdapter;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.event;
+package io.github.ethiopique.music.event;
 
 import java.io.File;
 import java.util.ArrayList;

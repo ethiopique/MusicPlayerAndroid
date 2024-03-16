@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.local.filesystem;
+package io.github.ethiopique.music.ui.local.filesystem;
 
 import android.content.Context;
 import android.view.View;
@@ -7,9 +7,9 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.ui.base.adapter.IAdapterView;
-import io.github.ryanhoo.music.utils.FileUtils;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.ui.base.adapter.IAdapterView;
+import io.github.ethiopique.music.utils.FileUtils;
 
 import java.io.File;
 import java.text.SimpleDateFormat;

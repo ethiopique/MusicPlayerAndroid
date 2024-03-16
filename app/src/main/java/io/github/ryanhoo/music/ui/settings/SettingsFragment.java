@@ -1,12 +1,12 @@
-package io.github.ryanhoo.music.ui.settings;
+package io.github.ethiopique.music.ui.settings;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.ui.base.BaseFragment;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.ui.base.BaseFragment;
 
 /**
  * Created with Android Studio.

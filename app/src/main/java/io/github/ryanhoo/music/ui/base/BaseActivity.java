@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.base;
+package io.github.ethiopique.music.ui.base;
 
 import android.content.Context;
 import android.graphics.PixelFormat;
@@ -12,8 +12,8 @@ import android.support.v7.widget.Toolbar;
 import android.util.DisplayMetrics;
 import android.view.MenuItem;
 import android.view.Window;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.utils.GradientUtils;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.utils.GradientUtils;
 import rx.Subscription;
 import rx.subscriptions.CompositeSubscription;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;

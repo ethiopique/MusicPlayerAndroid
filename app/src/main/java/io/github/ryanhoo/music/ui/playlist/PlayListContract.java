@@ -1,8 +1,8 @@
-package io.github.ryanhoo.music.ui.playlist;
+package io.github.ethiopique.music.ui.playlist;
 
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.ui.base.BasePresenter;
-import io.github.ryanhoo.music.ui.base.BaseView;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.ui.base.BasePresenter;
+import io.github.ethiopique.music.ui.base.BaseView;
 
 import java.util.List;
 

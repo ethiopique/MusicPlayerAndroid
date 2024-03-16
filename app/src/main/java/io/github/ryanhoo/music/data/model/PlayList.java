@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.data.model;
+package io.github.ethiopique.music.data.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
@@ -7,7 +7,7 @@ import android.support.annotation.Nullable;
 import com.litesuits.orm.db.annotation.*;
 import com.litesuits.orm.db.enums.AssignType;
 import com.litesuits.orm.db.enums.Relation;
-import io.github.ryanhoo.music.player.PlayMode;
+import io.github.ethiopique.music.player.PlayMode;
 
 import java.util.*;
 

@@ -1,12 +1,12 @@
-package io.github.ryanhoo.music.utils;
+package io.github.ethiopique.music.utils;
 
 import android.content.Context;
 import android.os.Build;
 import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
 import android.view.View;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.ui.widget.CharacterDrawable;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.ui.widget.CharacterDrawable;
 
 /**
  * Created with Android Studio.

@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.local.filesystem;
+package io.github.ethiopique.music.ui.local.filesystem;
 
 import java.io.File;
 

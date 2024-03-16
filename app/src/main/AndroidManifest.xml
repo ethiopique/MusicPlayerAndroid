@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="io.github.ryanhoo.music">
+          package="io.github.ethiopique.music">
 
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
@@ -31,10 +31,10 @@
 
         <service android:name=".player.PlaybackService">
             <intent-filter>
-                <action android:name="io.github.ryanhoo.music.ACTION.PLAY_TOGGLE"/>
-                <action android:name="io.github.ryanhoo.music.ACTION.PLAY_NEXT"/>
-                <action android:name="io.github.ryanhoo.music.ACTION.PLAY_LAST"/>
-                <action android:name="io.github.ryanhoo.music.ACTION.STOP_SERVICE"/>
+                <action android:name="io.github.ethiopique.music.ACTION.PLAY_TOGGLE"/>
+                <action android:name="io.github.ethiopique.music.ACTION.PLAY_NEXT"/>
+                <action android:name="io.github.ethiopique.music.ACTION.PLAY_LAST"/>
+                <action android:name="io.github.ethiopique.music.ACTION.STOP_SERVICE"/>
             </intent-filter>
         </service>
     </application>

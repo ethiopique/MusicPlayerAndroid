@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.local.filesystem;
+package io.github.ethiopique.music.ui.local.filesystem;
 
 import android.animation.Animator;
 import android.animation.ArgbEvaluator;
@@ -11,8 +11,8 @@ import android.support.v7.view.ActionMode;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.Window;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.utils.ViewUtils;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.utils.ViewUtils;
 
 /**
  * Created with Android Studio.
