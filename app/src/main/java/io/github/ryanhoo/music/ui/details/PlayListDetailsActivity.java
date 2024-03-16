@@ -29,7 +29,7 @@ import io.github.ethiopique.music.ui.playlist.AddToPlayListDialogFragment;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/11/16
  * Time: 6:34 AM
  * Desc: PlayListDetailsActivity

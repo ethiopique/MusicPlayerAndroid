@@ -4,7 +4,7 @@ import android.annotation.SuppressLint;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/2/16
  * Time: 6:07 PM
  * Desc: TimeUtils

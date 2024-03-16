@@ -12,7 +12,7 @@ import io.github.ethiopique.music.ui.base.adapter.IAdapterView;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/3/16
  * Time: 7:22 PM
  * Desc: FolderItemView

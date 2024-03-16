@@ -16,7 +16,7 @@ import io.github.ethiopique.music.utils.ViewUtils;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/4/16
  * Time: 5:40 PM
  * Desc: ActionModeCallback

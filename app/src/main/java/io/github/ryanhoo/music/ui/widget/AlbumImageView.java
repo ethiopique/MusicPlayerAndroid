@@ -17,7 +17,7 @@ import io.github.ethiopique.music.BuildConfig;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/6/16
  * Time: 11:39 PM
  * Desc: AlbumImageView

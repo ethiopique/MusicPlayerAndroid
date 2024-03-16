@@ -5,7 +5,7 @@ import java.io.FilenameFilter;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/4/16
  * Time: 1:39 AM
  * Desc: SystemFileFilter

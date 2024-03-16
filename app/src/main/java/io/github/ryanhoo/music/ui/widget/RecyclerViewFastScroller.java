@@ -16,7 +16,7 @@ import io.github.ethiopique.music.R;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/2/16
  * Time: 9:17 PM
  * Desc: FastScroller

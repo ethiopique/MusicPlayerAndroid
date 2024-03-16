@@ -16,7 +16,7 @@ import io.github.ethiopique.music.ui.base.BaseDialogFragment;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/9/16
  * Time: 10:51 PM
  * Desc: EditPlayListDialogFragment manages play lists'

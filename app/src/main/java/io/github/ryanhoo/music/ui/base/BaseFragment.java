@@ -10,7 +10,7 @@ import rx.subscriptions.CompositeSubscription;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 3/16/16
  * Time: 12:14 AM
  * Desc: BaseFragment

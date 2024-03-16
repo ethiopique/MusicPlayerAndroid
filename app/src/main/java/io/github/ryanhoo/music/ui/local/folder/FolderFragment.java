@@ -33,7 +33,7 @@ import java.util.List;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/3/16
  * Time: 7:29 PM
  * Desc: FolderFragment
