@@ -15,7 +15,7 @@ import android.widget.ImageView;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/8/16
  * Time: 4:23 PM
  * Desc: ShadowImageView

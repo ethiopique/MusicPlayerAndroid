@@ -13,7 +13,7 @@ import io.github.ethiopique.music.utils.TimeUtils;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/2/16
  * Time: 5:58 PM
  * Desc: LocalMusicItemView

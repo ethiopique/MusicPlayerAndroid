@@ -13,7 +13,7 @@ import java.util.List;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/9/16
  * Time: 10:16 PM
  * Desc: PlayListAdapter

@@ -4,7 +4,7 @@ import io.github.ethiopique.music.data.model.PlayList;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/11/16
  * Time: 9:22 PM
  * Desc: PlayListNowEvent

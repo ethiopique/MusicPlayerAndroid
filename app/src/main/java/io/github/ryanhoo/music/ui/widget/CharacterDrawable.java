@@ -9,7 +9,7 @@ import android.support.annotation.Dimension;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 7/16/16
  * Time: 6:59 AM
  * Desc: CharacterDrawable

@@ -4,7 +4,7 @@ import io.github.ethiopique.music.data.model.Song;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/12/16
  * Time: 9:15 AM
  * Desc: FavoriteChangeEvent

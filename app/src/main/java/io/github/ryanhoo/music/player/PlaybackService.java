@@ -18,7 +18,7 @@ import io.github.ethiopique.music.utils.AlbumUtils;
 
 /**
  * Created with Android Studio.
- * User: ryan.hoo.j@gmail.com
+ * User: ethiopique@gmail.com
  * Date: 9/12/16
  * Time: 4:27 PM
  * Desc: PlayService
