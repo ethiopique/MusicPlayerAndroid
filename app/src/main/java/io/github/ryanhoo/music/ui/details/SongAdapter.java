@@ -1,12 +1,12 @@
-package io.github.ryanhoo.music.ui.details;
+package io.github.ethiopique.music.ui.details;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.view.ViewGroup;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.ui.common.AbstractSummaryAdapter;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.ui.common.AbstractSummaryAdapter;
 
 import java.util.List;
 

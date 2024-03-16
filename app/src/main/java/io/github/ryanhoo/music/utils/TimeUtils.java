@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.utils;
+package io.github.ethiopique.music.utils;
 
 import android.annotation.SuppressLint;
 

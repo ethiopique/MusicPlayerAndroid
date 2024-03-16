@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.widget;
+package io.github.ethiopique.music.ui.widget;
 
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;

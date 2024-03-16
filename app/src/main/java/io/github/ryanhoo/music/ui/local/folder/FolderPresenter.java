@@ -1,12 +1,12 @@
-package io.github.ryanhoo.music.ui.local.folder;
+package io.github.ethiopique.music.ui.local.folder;
 
-import io.github.ryanhoo.music.RxBus;
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.data.source.AppRepository;
-import io.github.ryanhoo.music.event.PlayListUpdatedEvent;
-import io.github.ryanhoo.music.utils.FileUtils;
+import io.github.ethiopique.music.RxBus;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.data.source.AppRepository;
+import io.github.ethiopique.music.event.PlayListUpdatedEvent;
+import io.github.ethiopique.music.utils.FileUtils;
 import rx.Observable;
 import rx.Subscriber;
 import rx.Subscription;

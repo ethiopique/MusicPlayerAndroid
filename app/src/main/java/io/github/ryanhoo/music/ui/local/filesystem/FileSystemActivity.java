@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.local.filesystem;
+package io.github.ethiopique.music.ui.local.filesystem;
 
 import android.os.Bundle;
 import android.os.Environment;
@@ -11,13 +11,13 @@ import android.view.MenuItem;
 import android.view.View;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.RxBus;
-import io.github.ryanhoo.music.event.AddFolderEvent;
-import io.github.ryanhoo.music.ui.base.BaseActivity;
-import io.github.ryanhoo.music.ui.base.adapter.OnItemClickListener;
-import io.github.ryanhoo.music.ui.base.adapter.OnItemLongClickListener;
-import io.github.ryanhoo.music.ui.common.DefaultDividerDecoration;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.RxBus;
+import io.github.ethiopique.music.event.AddFolderEvent;
+import io.github.ethiopique.music.ui.base.BaseActivity;
+import io.github.ethiopique.music.ui.base.adapter.OnItemClickListener;
+import io.github.ethiopique.music.ui.base.adapter.OnItemLongClickListener;
+import io.github.ethiopique.music.ui.common.DefaultDividerDecoration;
 import rx.Observable;
 import rx.Subscriber;
 import rx.Subscription;

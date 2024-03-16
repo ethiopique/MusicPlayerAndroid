@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.main;
+package io.github.ethiopique.music.ui.main;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
@@ -9,13 +9,13 @@ import butterknife.BindView;
 import butterknife.BindViews;
 import butterknife.ButterKnife;
 import butterknife.OnCheckedChanged;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.ui.base.BaseActivity;
-import io.github.ryanhoo.music.ui.base.BaseFragment;
-import io.github.ryanhoo.music.ui.local.LocalFilesFragment;
-import io.github.ryanhoo.music.ui.music.MusicPlayerFragment;
-import io.github.ryanhoo.music.ui.playlist.PlayListFragment;
-import io.github.ryanhoo.music.ui.settings.SettingsFragment;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.ui.base.BaseActivity;
+import io.github.ethiopique.music.ui.base.BaseFragment;
+import io.github.ethiopique.music.ui.local.LocalFilesFragment;
+import io.github.ethiopique.music.ui.music.MusicPlayerFragment;
+import io.github.ethiopique.music.ui.playlist.PlayListFragment;
+import io.github.ethiopique.music.ui.settings.SettingsFragment;
 
 import java.util.List;
 

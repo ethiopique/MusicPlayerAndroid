@@ -1,6 +1,6 @@
-package io.github.ryanhoo.music.event;
+package io.github.ethiopique.music.event;
 
-import io.github.ryanhoo.music.data.model.Song;
+import io.github.ethiopique.music.data.model.Song;
 
 /**
  * Created with Android Studio.

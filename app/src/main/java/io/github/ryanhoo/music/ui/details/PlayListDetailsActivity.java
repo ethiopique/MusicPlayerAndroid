@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.details;
+package io.github.ethiopique.music.ui.details;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,17 +15,17 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.github.ryanhoo.music.R;
-import io.github.ryanhoo.music.RxBus;
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.data.source.AppRepository;
-import io.github.ryanhoo.music.event.PlayListNowEvent;
-import io.github.ryanhoo.music.ui.base.BaseActivity;
-import io.github.ryanhoo.music.ui.base.adapter.OnItemClickListener;
-import io.github.ryanhoo.music.ui.common.DefaultDividerDecoration;
-import io.github.ryanhoo.music.ui.playlist.AddToPlayListDialogFragment;
+import io.github.ethiopique.music.R;
+import io.github.ethiopique.music.RxBus;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.data.source.AppRepository;
+import io.github.ethiopique.music.event.PlayListNowEvent;
+import io.github.ethiopique.music.ui.base.BaseActivity;
+import io.github.ethiopique.music.ui.base.adapter.OnItemClickListener;
+import io.github.ethiopique.music.ui.common.DefaultDividerDecoration;
+import io.github.ethiopique.music.ui.playlist.AddToPlayListDialogFragment;
 
 /**
  * Created with Android Studio.

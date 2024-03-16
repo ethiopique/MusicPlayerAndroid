@@ -1,4 +1,4 @@
-package io.github.ryanhoo.music.ui.local.all;
+package io.github.ethiopique.music.ui.local.all;
 
 import android.database.Cursor;
 import android.net.Uri;
@@ -8,9 +8,9 @@ import android.support.v4.app.LoaderManager;
 import android.support.v4.content.CursorLoader;
 import android.support.v4.content.Loader;
 import android.util.Log;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.data.source.AppRepository;
-import io.github.ryanhoo.music.utils.FileUtils;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.data.source.AppRepository;
+import io.github.ethiopique.music.utils.FileUtils;
 import rx.Observable;
 import rx.Subscriber;
 import rx.Subscription;

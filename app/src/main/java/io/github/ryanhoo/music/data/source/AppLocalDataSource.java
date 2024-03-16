@@ -1,14 +1,14 @@
-package io.github.ryanhoo.music.data.source;
+package io.github.ethiopique.music.data.source;
 
 import android.content.Context;
 import android.util.Log;
 import com.litesuits.orm.LiteOrm;
 import com.litesuits.orm.db.assit.QueryBuilder;
 import com.litesuits.orm.db.model.ConflictAlgorithm;
-import io.github.ryanhoo.music.data.model.Folder;
-import io.github.ryanhoo.music.data.model.PlayList;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.utils.DBUtils;
+import io.github.ethiopique.music.data.model.Folder;
+import io.github.ethiopique.music.data.model.PlayList;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.utils.DBUtils;
 import rx.Observable;
 import rx.Subscriber;
 

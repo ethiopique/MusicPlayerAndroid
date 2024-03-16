@@ -1,10 +1,10 @@
-package io.github.ryanhoo.music.ui.local.all;
+package io.github.ethiopique.music.ui.local.all;
 
 import android.content.Context;
 import android.support.v4.app.LoaderManager;
-import io.github.ryanhoo.music.data.model.Song;
-import io.github.ryanhoo.music.ui.base.BasePresenter;
-import io.github.ryanhoo.music.ui.base.BaseView;
+import io.github.ethiopique.music.data.model.Song;
+import io.github.ethiopique.music.ui.base.BasePresenter;
+import io.github.ethiopique.music.ui.base.BaseView;
 
 import java.util.List;
 
